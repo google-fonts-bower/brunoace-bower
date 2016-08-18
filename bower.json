@@ -1,0 +1,17 @@
+{
+    "name": "brunoace-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/brunoace-bower.git"
+    },
+    "description": "Bruno Ace font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
